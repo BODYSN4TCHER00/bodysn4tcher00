@@ -1,5 +1,9 @@
-## Hi there 👋
+![Project Logo](https://i.pinimg.com/1200x/ab/df/d7/abdfd77ca3e9a98136cfca6485324ef0.jpg)
 
+
+## ⚡ Software Developer:p ⚡
+
+I'm a software developer specializing in cybersecurity. I've been developing solutions for a couple of years, with expertise in network monitoring. Currently, I'm building any project for fun, while learning new skills.
 <!--
 **BODYSN4TCHER00/bodysn4tcher00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
